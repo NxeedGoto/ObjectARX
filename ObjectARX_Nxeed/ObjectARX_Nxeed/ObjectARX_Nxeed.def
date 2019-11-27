@@ -1,0 +1,5 @@
+LIBRARY	ObjectARX_Nxeed
+
+EXPORTS
+		acrxEntryPoint		 PRIVATE
+		acrxGetApiVersion	 PRIVATE
